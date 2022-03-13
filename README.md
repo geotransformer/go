@@ -12,3 +12,9 @@
     
 
 See: https://www.jetbrains.com/help/go/configuring-goroot-and-gopath.html
+
+
+## GoLand Keyboard shortcuts
+See: https://www.jetbrains.com/help/go/mastering-keyboard-shortcuts.html
+
+## Build a program
