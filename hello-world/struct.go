@@ -24,21 +24,18 @@ func main() {
 	// foo(a)
 	// fmt.Println(a)
 
-	a := &struct{
+	a := &struct {
 		name string
-		age int
-		add City
+		age  int
+		add  City
 	}{
 		name: "Tom",
-		age: 23,
+		age:  23,
 		add: City{
 			name: "Ott",
 		},
 	}
-
 	fmt.Println(a)
-
-
 }
 
 // func foo(p *Person){
