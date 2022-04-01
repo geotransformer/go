@@ -4,7 +4,7 @@
 - $GOROOT is Go installation and Go SDK location
 - $GOPATH is root of your workspace and contains the following folders:
 
-    src/: location of Go source code (for example, .go, .c, .g, .s), i.e., this go-projects repository.
+    src/: location of Go source code (for example, .go, .c, .g, .s)
     
     pkg/: location of compiled package code (for example, .a).
     
